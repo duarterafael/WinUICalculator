@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Calculator.Main (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "Calculator.Main (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
